@@ -10,14 +10,24 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 ## Cybersecurity Training and Education Platforms
 - [**AttackIQ Academy**](https://www.academy.attackiq.com): Offers a range of free cybersecurity training courses, designed to enhance skills in threat informed defense, leveraging practical exercises and comprehensive educational content to prepare for various cybersecurity roles.
 - [**Cybrary**](https://www.cybrary.it): An online platform offering a wide range of cybersecurity courses, certifications, and hands-on labs, providing learners with the skills and knowledge needed to excel in the field of cybersecurity.
-- [INSECA](https://inseca.tech): Platform offering cybersecurity training, services, and resources, including courses, certifications, and consulting for individuals and organizations.
 - [**PortSwigger Web Security Academy**](https://portswigger.net/web-security): An interactive learning platform offering free web security training, tutorials, and labs, covering topics such as cross-site scripting (XSS), SQL injection, and other common web vulnerabilities.
+- [PentesterLab](https://pentesterlab.com): PentesterLab is a penetration testing training platform designed to provide hands-on experience and practical skills in web application security, offering a range of exercises, challenges, and labs for cybersecurity enthusiasts and professionals to enhance their penetration testing abilities.
+- [PicoCTF](https://picoctf.com): PicoCTF is a capture the flag (CTF) platform aimed at teaching cybersecurity skills through interactive challenges and competitions, catering to beginners and experienced players alike, fostering learning and collaboration in the cybersecurity community.
+- [TryHackMe](https://tryhackme.com): TryHackMe is a cybersecurity training platform that offers immersive, hands-on labs and challenges covering a wide range of topics, from beginner to advanced levels, enabling users to learn and practice real-world hacking techniques in a safe and controlled environment.
+- [Security Blue Team](https://www.securityblue.team): Security Blue Team is a platform providing comprehensive resources, training materials, and exercises for blue team professionals and enthusiasts to enhance their skills in cybersecurity defense, incident response, and threat detection.
+- [BlueTeamLabs.Online](https://blueteamlabs.online): BlueTeamLabs.Online is a blue team training platform designed to simulate real-world cyber threats and incidents, offering hands-on labs and scenarios to enhance defensive skills and incident response capabilities for cybersecurity professionals and teams.
+- [Hack The Box](https://www.hackthebox.com): Hack The Box is an online platform that provides hands-on penetration testing practice labs, challenges, and virtual machines for cybersecurity enthusiasts and professionals to develop and sharpen their offensive security skills in a realistic and gamified environment.
+- [INE Security](https://security.ine.com): INE Security is a cybersecurity training platform that offers a wide range of courses, labs, and resources covering diverse topics such as ethical hacking, penetration testing, incident response, and network defense, providing hands-on learning experiences for cybersecurity professionals and enthusiasts.
+- [ArcX](https://arcx.io): ArcX is a cybersecurity collaboration platform that enables security teams to collaborate, share threat intelligence, and respond to security incidents effectively, providing a centralized hub for incident management, communication, and coordination.
+- [MAD](https://mad.mad20.io): MAD is a cybersecurity training platform that offers hands-on labs, challenges, and scenarios to help individuals develop practical skills in offensive and defensive security techniques, preparing them for real-world cybersecurity challenges.
 
 ## Professional Certification Body
 - [**(ISC)²**](https://www.isc2.org): A globally recognized professional certification body offering various cybersecurity certifications, including the CISSP (Certified Information Systems Security Professional) and CCSP (Certified Cloud Security Professional), designed to validate expertise and advance careers in the field of cybersecurity.
 
 ## Cybersecurity Education and Study Guides
 - [**Security-Study-Plan by jassics on GitHub**](https://github.com/jassics/security-study-plan): A detailed and practical study plan for aspiring cybersecurity engineers covering multiple security roles and domains, including Pentest, AppSec, Cloud Security, and DevSecOps, with a mix of free and paid resources, tools, and concepts.
+- [Roadmap.sh - Cyber Security](https://roadmap.sh/cyber-security): Roadmap.sh provides a comprehensive learning roadmap for individuals interested in pursuing a career in cybersecurity, offering a structured guide with resources, skills, and learning paths covering various domains within the cybersecurity field.
+- [Paul Jerimy - Security Certification Roadmap](https://pauljerimy.com/security-certification-roadmap/): Paul Jerimy provides a comprehensive roadmap for individuals interested in pursuing security certifications, offering guidance and recommendations for various certification paths and levels to advance their careers in the cybersecurity field.
 
   
 # Services
@@ -30,6 +40,9 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 - Free Services / Freemium services
   - [**FullHunt.io**](https://fullhunt.io): A platform designed to discover, monitor, and secure your external attack surface by continuously scanning for vulnerabilities and security misconfigurations, providing real-time alerts and integrations for a comprehensive security posture.
   - [**DNSdumpster.com**](https://dnsdumpster.com): A free domain research tool that helps in discovering hosts related to a domain, essential for security assessment processes, providing a "virtual dumpster dive" into DNS records to map an organization's attack surface.
+  - [**Netlas.io**](https://netlas.io): Netlas.io is a cyber threat intelligence platform that provides comprehensive insights into Internet-wide attack surface, including domains, IPs, certificates, and more, empowering cybersecurity professionals with actionable threat intelligence for proactive defense strategies.
+  - [Censys](https://search.censys.io): Censys is an internet-wide asset discovery platform that enables users to search and analyze devices, networks, and protocols across the internet, providing comprehensive visibility and insights for cybersecurity professionals to assess their organization's attack surface and mitigate security risks.
+
 
 - Paid services
   - [**Shodan.io**](https://www.shodan.io): A search engine for Internet-connected devices, allowing users to discover devices ranging from power plants to refrigerators online, monitor network exposure, and gain insights into the use of technology across the internet.
@@ -37,6 +50,10 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 ## Code Search Tools
 - Free Services / Freemium services
   - [**Grep.app**](https://grep.app): A powerful code search tool that allows users to search through millions of code repositories for specific patterns, facilitating easier code review and bug tracking.
+
+## Command Line Syntax Explanation Tool:
+- Free Services / Freemium services
+  - [Explain Shell](https://explainshell.com): Explain Shell is a web-based tool that provides explanations and breakdowns of complex command-line syntax and options, helping users understand the functionality and usage of various Unix commands for efficient shell scripting and system administration.
  
 ## Cross-Browser Testing Tools
 - Free Services / Freemium services
@@ -49,6 +66,8 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 ## IP Geolocation 
 - Free Services / Freemium services
   - [**Ipbase.com**](https://ipbase.com): Offers an IP Geolocation API designed for developers, featuring free requests to enhance user experience and security.
+  - [IP-API](https://ip-api.com): IP-API is a service providing IP geolocation and information lookup capabilities, allowing users to retrieve details about IP addresses, including their geographical location, ISP, and ASN, for various cybersecurity and networking purposes.
+
 
 - Paid services
   - [**ipinfo.io**](https://ipinfo.io): A website offering IP geolocation and information services, providing users with details about IP addresses, including their geographic location, organization, and internet service provider.
@@ -80,7 +99,6 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
   - [Any.Run Intelligence](https://intelligence.any.run): Any.Run Intelligence is a threat intelligence platform offering comprehensive insights into malware threats, providing threat intelligence reports, indicators of compromise (IOCs), and actionable intelligence for cybersecurity professionals and researchers.
   - [**ThreatBook**](https://threatbook.io): A threat intelligence platform that provides comprehensive insights into cyber threats, offering real-time monitoring, analysis, and mitigation strategies to enhance cybersecurity defenses.
 
-
 ## Threat Modeling Platforms
 - Paid services
   - [**ThreatModeler**](https://threatmodeler.com/threatmodeler/#threatmodeler): An advanced threat modeling platform that enables organizations to build, analyze, and visualize threat models for their applications and systems, facilitating proactive cybersecurity risk management.
@@ -101,6 +119,10 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 
 ## File Integrity Monitoring Tools
 - [**Tripwire Open Source**](https://github.com/Tripwire/tripwire-open-source): A free file integrity monitoring tool designed to detect changes to files and directories on a system, providing alerts for potential security breaches or unauthorized modifications.
+
+## Digital Forensics and Incident Response Tool:
+- [Kuiper](https://github.com/DFIRKuiper/Kuiper): Kuiper is a digital forensics and incident response tool designed to automate and simplify the process of collecting and analyzing volatile memory (RAM) artifacts from Windows systems, aiding forensic investigators and incident responders in identifying and investigating security incidents.
+
 
 ## Vulnerability Scanner Framework
 - [**Nuclei by Projectdiscovery on GitHub**](https://github.com/projectdiscovery/nuclei): A fast and customizable vulnerability scanner framework that enables security professionals to detect security issues in web applications and APIs by using predefined templates or creating custom ones.
@@ -151,5 +173,7 @@ A curated collection of essential cybersecurity resources, tools, and platforms 
 ## SigmaHQ GitHub Repository:
 - [SigmaHQ on GitHub](https://github.com/SigmaHQ): GitHub repository for SigmaHQ, a generic and open signature format for SIEM systems, designed to describe relevant log events in a straight forward manner.
 
+## Living Off The Land Binaries and Scripts (LOLBAS) Project:
+- [LOLBAS Project](https://lolbas-project.github.io): The LOLBAS Project is a comprehensive repository documenting various legitimate binaries and scripts used by attackers for living off the land techniques, aiding cybersecurity professionals in understanding and mitigating threats associated with these techniques.
 
 
